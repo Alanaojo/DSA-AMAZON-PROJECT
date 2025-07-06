@@ -163,4 +163,4 @@ This document outlines all the data preparation steps and formulas used to clean
   - Revenue potential by category
 
 ## 📷 Dashboard Preview
-![Pivot Tables and Dashboard][Amazon case study 11.xlsx](https://github.com/user-attachments/files/21066238/Amazon.case.study.11.xlsx)
+![Pivot Tables and Dashboard][Amazon case study 11.xlsx](https://github.com/user-attachments/files/21066238/Amazon.case.study.xlsx)
